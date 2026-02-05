@@ -1,3 +1,7 @@
+## Author Name
+Santosh
+
+
 # learning-c-pointers
 A beginner-friendly C program demonstrating pointers and pointer-to-pointer concepts with clean output and proper memory handling.
 
@@ -17,4 +21,6 @@ the fundamentals of pointers and pointer-to-pointer concepts.
 ```bash
 gcc pointers.c -o pointers
 ./pointers
+
+
 
